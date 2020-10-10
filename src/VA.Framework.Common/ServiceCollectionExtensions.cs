@@ -15,7 +15,7 @@ using VA.Framework.Common.Helpers.Implementation;
 using VA.Framework.Common.RedisCaching.Definition;
 using VA.Framework.Common.RedisCaching.Implementation;
 
-namespace VA.Framework.Common.Extensions
+namespace VA.Framework.Common
 {
     public static class ServiceCollectionExtensions
     {
